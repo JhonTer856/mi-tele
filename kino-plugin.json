@@ -1,12 +1,13 @@
 {
-  "apiVersion": 1,
   "id": "jhonter-mi-tele",
   "name": "Mi Canal de TV",
   "version": "1.0.0",
   "description": "Plugin para reproducir mi canal de TV personalizado",
   "icon": "tv",
+  "apiVersion": 1,
   "permissions": [
     "http://201.182.249*"
   ],
   "settings": []
 }
+
