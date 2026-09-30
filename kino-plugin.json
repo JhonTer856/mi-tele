@@ -5,9 +5,9 @@
   "description": "Plugin para reproducir mi canal de TV personalizado",
   "icon": "tv",
   "apiVersion": 1,
+  "entry": "./plugin.js",
   "permissions": [
     "http://201.182.249*"
   ],
   "settings": []
 }
-
